@@ -8,6 +8,7 @@ const Heroares = () => {
       <div class="home-banner">
         <div class="home-banner-wordings">
           <h1>The place where your health matters most.</h1>
+          {/* <p>Better health starts here.</p> */}
           <p>Better health starts here.</p>
           <button id="register">MORE ABOUT US</button>
         </div>
