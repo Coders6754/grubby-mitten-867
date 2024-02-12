@@ -37,6 +37,7 @@ const Footer = () => {
               </ul>
             </div>
             <div class="footer-col">
+              {/* <h4>Hospital</h4> */}
               <h4>Hospital</h4>
               <ul class="footer-ul">
                 <li class="footer-li">
