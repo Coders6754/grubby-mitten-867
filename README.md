@@ -1,97 +1,77 @@
-# Medical Store
-https://dazzling-starlight-7e1217.netlify.app/
+## Telemedicine-website
+"Introducing our Telemedicine-website, a one-stop digital destination for all your healthcare needs. Explore a comprehensive range of pharmaceuticals, wellness products, and medical supplies, delivered conveniently to your doorstep, ensuring easy access to essential healthcare solutions."
+
+![Logo](https://github.com/Animesh-2/Telemedicine-website/blob/main/home_image/Blue%2C%20white%20and%20green%20Medical%20care%20logo%20(2).png)
+
+## Objective
+The main objective of our project was to make practical use of all the coding skills that we learned in Masai School to build the Project.
+
+## Group-Project
+This is a collaborative project built by a team of four members in a span of six days.
+
+## Tech Stack 💻
+HTML5
+CSS3
+JAVASCRIPT 
+JSON-SERVER 
+API
+
+**Splide library's CSS file (splide-default.min.css) has been used**
+& **Font Awesome Icons have been used for icons**
 
 
-# <span style="color:red"> Welcome Here!</span>
+## Features ✨
 
-Hello Readers,<br>
-It was during the final week which is depicted as the construct week. We have done this project with group of 4 members and build Medical Store wesbite .This Project is our construct week project in Unit-6 an we give a name to our project 
+- Authentication process undercover with Firebase.
+- Pagination for each category with working mega dropdown.
+- Dynamic Products, Wishlist page using locally created json data.
+- All the product description, prices, discounts, are updated in real time.
 
-<br> I hope you will enjoy the reading….
+## Deployment 🎥
 
+The Project is deployed on netlifty 
+- Deployed Link:- [Enjoy the Experience](https://fastidious-sunflower-8937c8.netlify.app/)
+- video Link:- [know the site](https://youtu.be/TSSLJ6n0zJk)
 
- 
+## Snap Shots 📷
 
-# <span style="color:red"> Tech Stack Used: </span>
+**Home Page**
 
-We have used React,  CSS, Advance JavaScript,Local Storage for building this Project. We also used tools like GitHub for collaboration of our project, Slack & Zoom as means of a communication channel.
+![image](https://github.com/Animesh-2/Telemedicine-website/assets/51116785/ab4858d3-2241-4017-89d3-9b9dd81a4ee1)
 
+**Navigation Bar**
 
-# <span style="color:red"> Details of Tech stack used: </span>
+![image](https://github.com/Animesh-2/Telemedicine-website/assets/51116785/f44e1858-79fb-4cec-91a8-10c00b78917c)
 
-<b>React:</b>
-
-we have used to build the basic structure of the website. All headings, Paragraphs, links, forms, etc. were structured by HTML.
-
- <b>CSS:</b>
-
-We have used to add styling to the website. We used Advance CSS for Popup Modal window for login/Sign up, Payment, and all other styling.
-
- <b> Advance JavaScript:</b>
-
-We have used to add logical functionalities to the web pages like the on Click function. We have added all the functionalities.
-
-<b> Local storage:</b>
-
-We have used local-storage as a database for storing users’ data, products details, and cart details.
-
-Let us share our experience,<br>
-This entire journey of making the project was awesome. We have learned lots of things by applying to the real website and it gave us a lot of confidence. there were some more functionalities that could have been done, yeah the time didn’t permit us to go further. But we will surely improve it during the course of time in future .
-
-## So jurney started from here!
-
-### Snapshots of our project :- 
-
-- ## <span style="color:blue"> Home Page </span>
-
-<img alt="Home page" src="./Capture.PNG">
-<img  alt="zms 1" src="./Capture1.PNG">
+**Footer**
+![image](https://github.com/Animesh-2/Telemedicine-website/assets/51116785/d91410f7-3882-4132-9669-a8c1e9a1a052)
 
 
-- ## <span style="color:blue"> Product Pages</span>
+**Signup Login Page**
+![image](https://github.com/Animesh-2/Telemedicine-website/assets/51116785/d34b6489-8e23-4f57-aa6c-bf5f33c9c8c2)
 
-<img alt="product" src="./Capture2.PNG">
-
- <img alt="product" src="./Capture3.PNG">
-
-
-
- 
+**Product Page**
+![image](https://github.com/Animesh-2/Telemedicine-website/assets/51116785/a492d355-610c-4df6-a878-3f12d873b087)
 
 
- 
-<br>
- <hr>
+**Product Details Page**
+![image](https://github.com/Animesh-2/Telemedicine-website/assets/51116785/bf14e2bf-8b59-40f3-923e-aa5436c6eb00)
 
- <br>
-
-# <span style="color:red">Team Members: </span>
-Suraj
-<br>
-Abhishek
-<br>
-Affan 
-<br>
-Ajay
-<br>
-Ashwek
-<br>
+**Cart Page**
+![image](https://github.com/Animesh-2/Telemedicine-website/assets/51116785/7ce2df22-4b4c-4796-b681-4a732a2e621f)
 
 
-# <span style="color:red">Our Journey: </span>
-As we are all new and never work on a project so our first day gone in discussion about how we start and who did which work, In evening finally we decide distribute our work.
-On the second day we start with our morning scrum and decide the deadline to complete the whole project and start working on it, the In evening stand-up we discussed our challenges and problem and try to resolve them.
-2 days we have the same routine and finally on the fourth day our given task is ready but when we merge the all parts the main problem came like many classes and ids are same due to that the structure of all products was very bad but our Team take it as a challenge and change and put comments on code in just one and half day.
-on the seventh day again we merge all our code and finally, we did it, There were some changes that need to be done and we all did it and finally, we record our presentation and Submit.
-<br>
+**Address Page**
+![image](https://github.com/Animesh-2/Telemedicine-website/assets/51116785/65b3aec4-6f4e-4c45-a105-817482ff7f91)
 
 
-# <span style="color:rgb(255, 174, 0)">Conclusion: </span>
-We are very thankful for the support of my teammates and instructor for the completion of project in due time. We will looks forward to add some feature and functionality which we left in this project for future expensions.
+## Contributors  😇
+
+- 👤 [Animesh Singh](https://www.github.com/Animesh-2)
+- 👤 [Abhay Khare](https://github.com/ABHAY-22)
+- 👤 [Navtej Anand](https://github.com/navtejnt1)
+- 👤 [Ajay Jaiswal](https://github.com/AjayJaishwal)
 
 
-# <span style="color:rgb(255, 170, 0)"> Thank Your For Reading </span>
-
-
-
-
+# Conclusion
+The rapid creation of this website in a mere five days by a dedicated team of four members underscores their exceptional teamwork and project management skills. It exemplifies their ability to execute tasks efficiently and deliver high-quality results within tight deadlines.
