@@ -7,7 +7,7 @@
 The main objective of our project was to make practical use of all the coding skills that we learned in Masai School to build the Project.
 
 ## Group-Project
-This is a collaborative project built by a team of four members in a span of six days.
+This is a collaborative project built by a team of four members in a span of five days.
 
 ## Tech Stack 💻
 HTML5
@@ -67,10 +67,10 @@ The Project is deployed on netlifty
 
 ## Contributors  😇
 
-- 👤 [Animesh Singh](https://www.github.com/Animesh-2)
-- 👤 [Abhay Khare](https://github.com/ABHAY-22)
-- 👤 [Navtej Anand](https://github.com/navtejnt1)
-- 👤 [Ajay Jaiswal](https://github.com/AjayJaishwal)
+- 👤 [Anjali Sinha](https://www.github.com/Animesh-2)
+- 👤 [Divyam Rauthan](https://github.com/ABHAY-22)
+- 👤 [Avijit kumar sharma](https://github.com/navtejnt1)
+- 👤 [santosh kumar](https://github.com/AjayJaishwal)
 
 
 # Conclusion
