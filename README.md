@@ -67,10 +67,10 @@ The Project is deployed on netlifty
 
 ## Contributors  😇
 
-- 👤 [Anjali Sinha](https://www.github.com/Animesh-2)
-- 👤 [Divyam Rauthan](https://github.com/ABHAY-22)
-- 👤 [Avijit kumar sharma](https://github.com/navtejnt1)
-- 👤 [santosh kumar](https://github.com/AjayJaishwal)
+- 👤 [Anjali Sinha](https://github.com/Coders6754)
+- 👤 [Divyam Rauthan](https://github.com/DivYam062)
+- 👤 [Avijit kumar sharma](https://github.com/AvijitSharma123)
+- 👤 [santosh kumar](https://github.com/Santosh007kumar)
 
 
 # Conclusion
