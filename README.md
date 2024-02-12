@@ -28,7 +28,7 @@ API
 ## Deployment 🎥
 
 The Project is deployed on netlifty 
-- Deployed Link:- [Enjoy the Experience](https://fastidious-sunflower-8937c8.netlify.app/)
+- Deployed Link:- [Enjoy the Experience](https://tranquil-pasca-4810b9.netlify.app)
 
 ## Snap Shots 📷
 
