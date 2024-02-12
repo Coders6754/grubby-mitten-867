@@ -125,4 +125,7 @@ const Products = ({ setCartItems, cartItems }) => {
   )
 }
 
+
 export default Products;
+
+
