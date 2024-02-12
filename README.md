@@ -9,15 +9,6 @@ The main objective of our project was to make practical use of all the coding sk
 ## Group-Project
 This is a collaborative project built by a team of four members in a span of five days.
 
-## Tech Stack 💻
-REACT
-CSS
-API
-
-**Splide library's CSS file (splide-default.min.css) has been used**
-& **Font Awesome Icons have been used for icons**
-
-
 ## Features ✨
 
 - Authentication process undercover with Firebase.
