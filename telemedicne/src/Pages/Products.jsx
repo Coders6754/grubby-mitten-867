@@ -19,7 +19,6 @@ const Products = ({ setCartItems, cartItems }) => {
       console.error('Error fetching products:', error);
     }
   };
-  
 
   useEffect(() => {
     fetchData();
