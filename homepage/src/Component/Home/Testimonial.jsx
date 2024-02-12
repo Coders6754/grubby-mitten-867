@@ -21,7 +21,14 @@ const Testimonial = () => {
                   </div>
                   <hr class="homepage-hr" />
                   <div class="homepage-testimonial-subdiv2">
-                    <p>
+                    {/* <p>
+                      In my experience here, I found the treatment given to
+                      patients to be excellent. All reports were ready at the
+                      committed time, and everything was so efficient and
+                      adequately taken care of, that I am considering making the
+                      Velachery clinic my regular source of care.
+                    </p> */}
+                      <p>
                       In my experience here, I found the treatment given to
                       patients to be excellent. All reports were ready at the
                       committed time, and everything was so efficient and
